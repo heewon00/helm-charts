@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  helm-keycloak-emp:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-02-22T01:53:34.877296832Z"
+    description: helm-keycloak-emp
+    digest: 507a1c88ff3e463e70e14f17333a531718a0c1ab6a53bde05bdd6b9149667d03
+    name: helm-keycloak-emp
+    urls:
+    - helm-keycloak-emp-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-02-22T01:53:34.876708178Z"
